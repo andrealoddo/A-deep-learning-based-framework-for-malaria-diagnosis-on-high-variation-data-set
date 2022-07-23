@@ -4,6 +4,8 @@ Models, Features, and Results inherent the manuscript
 
 Here, you can find the models, results and features used in the manuscript "A deep learning based framework for malaria diagnosis on high variation data set".
 
+IMPORTANT: due to GitHub's space limitations, the models can be found at the following link: https://unicadrsi-my.sharepoint.com/:f:/g/personal/andrea_loddo_unica_it/Er3ZltnhVL1HhgcRKQTqKywB5MpM0Kpp2oCY_V9-Y6KKEw?e=5hlAMB
+
 Authors, releasers and maintainers: Andrea Loddo, Luca Zedda - University of Cagliari
 
 NOTE: please cite one of the following pubblication in case of using these repository in your own work:
