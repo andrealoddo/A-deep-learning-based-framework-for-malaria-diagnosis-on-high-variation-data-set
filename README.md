@@ -59,7 +59,7 @@ NOTE: please cite one of the following pubblication in case of using these repos
 }
 
 # MP-IDB
-ALL-IDB is a public image dataset described in the following article: https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7 
+MP-IDB is a public image dataset described in the following article: https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7 
 More information can be found @ https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis
 
 # LICENSE
